@@ -1,0 +1,4 @@
+#Solução em Python para gerar 1000 pontos seguindo a distribuição normal com média 20
+ e desvio-padrão 2 e exibir os dados em um histograma
+
+#Devem ser instalados os seguintes modulos matplotlib e numpy
